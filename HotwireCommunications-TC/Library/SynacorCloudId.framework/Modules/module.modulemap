@@ -1,0 +1,10 @@
+framework module SynacorCloudId {
+  umbrella header "SynacorCloudId.h"
+
+  export *
+  module * { export * }
+}
+
+module SynacorCloudId.Swift {
+    header "SynacorCloudId-Swift.h"
+}

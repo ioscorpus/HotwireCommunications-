@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.1.0)
+  - Branch (0.14.12):
+    - Branch/Core (= 0.14.12)
+    - Branch/without-IDFA (= 0.14.12)
+  - Branch/Core (0.14.12)
+  - Branch/without-IDFA (0.14.12)
+  - CMPageControl (0.0.3)
+  - HockeySDK (4.1.4):
+    - HockeySDK/DefaultLib (= 4.1.4)
+  - HockeySDK/DefaultLib (4.1.4)
+  - IQKeyboardManagerSwift (4.0.6)
+  - ReachabilitySwift (3)
+  - SwiftyJSON (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.1)
+  - Branch
+  - CMPageControl
+  - HockeySDK
+  - IQKeyboardManagerSwift (= 4.0.6)
+  - ReachabilitySwift (= 3.0)
+  - SwiftyJSON (= 3.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: e266cf991b933498df791e645e0d8ac294492153
+  Branch: f63d9cf82ac09747349a73184a0b739d28781c4d
+  CMPageControl: 63c66975d32b4f9e32634824dc62a3fa544e6767
+  HockeySDK: 78a3f8bb9100277b531defc56c970369a3ca267a
+  IQKeyboardManagerSwift: b3015e819559ca76381f87a0833f44d178564603
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+
+PODFILE CHECKSUM: 04f519bb33ac298d9aead642b9705bb70119d7df
+
+COCOAPODS: 1.2.0

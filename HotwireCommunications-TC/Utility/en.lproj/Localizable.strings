@@ -1,0 +1,290 @@
+/* 
+  Localizable.strings
+  HotwireCommunications-TC
+
+  Created by Chetu-macmini-26 on 30/08/16.
+  Copyright © 2016 chetu. All rights reserved.
+*/
+"Language" = "English";
+// viewcontroller title
+"Services" = "Services";
+"Community" = "Community";
+"Support" = "Support";
+"TV" = "TV";
+"TermOfUse" = "Term of Use";
+"PrivacyPolicy" = "Privacy Policy";
+// Cell header title
+"TermOfUseCellTitle" = "TERMS OF USE";
+"PrivacyPolicyCellTitle" = "PRIVACY POLICY";
+// sign up
+"SignUp" = "Sign Up";
+"LogIn" = "Log In";
+"SetUp" = "Set Up";
+"ChangePhone" = "Change Phone";
+"ChangeEmail" = "Change Email";
+"Help" = "Help";
+"AccountSetup" = "Account Setup";
+// forgot login
+"AccountRecovery" = "Account Recovery";
+"ResetPassword" = "Reset Password";
+"RecoverUsername" = "Recover Username";
+//UIBar button item
+"Skip" = "Skip";
+"Cancel" = "Cancel";
+"Back" = "Back";
+// dashboard  item list
+// title
+"MY_DASHBOARD" = "MY DASHBOARD";
+"Offer_And_Event" = "Offer and Events";
+"Billing" = "Billing";
+"Appointments" ="Appointments";
+"Connection" = "Connection";
+"Community" = "Community";
+"Services" = "Services";
+"My_Account" = "My Account";
+"App_Settings" = "App Settings";
+// internet item list
+// title
+"MY_INTERNET_SERVICE" = "MY INTERNET SERVICE";
+"Check_My_Email" = "Check My Email";
+"Speed_Test" = "Speed Test";
+"VPN_Connection" = "VPN Connection";
+"Upgrade_Internet_Service" = "Upgrade Internet Service";
+// tv tab item list
+// section header
+"MY_TV_SERVICE" = "MY TV SERVICE";
+"MY_DVR" = "MY DVR";
+"MY_REMOTE_CONTROL" = "MY REMOTE CONTROL";
+"MY_CHANNEL_LINEUP" = "MY CHANNEL LINEUP";
+// tvList
+"Video_On_Demand" = "Video On Demand";
+"TV_Network_Apps" = "TV Network Apps";
+"Community_Video" = "Community Video";
+//dvrList
+"Recording_Shows" = "Recording Shows";
+"Scheduled_Shows" = "Scheduled Shows";
+"TV_Schedule" = "TV Schedule";
+//remoteControllList
+"Remote_Control" = "Remote Control";
+//channelLineupList
+"TV_Listings" = "TV Listings";
+"Channel Lineup" = "Channel Lineup";
+"Upgrade TV Service" = "Upgrade TV Service";
+//Phone item list
+//phone list title
+"MY_PHONE_SERVICE" = "MY PHONE SERVICE";
+"Phone_Portal" = "Phone Portal";
+"Settings" = "Settings";
+"Upgrade_Phone_Service" = "Upgrade Phone Service";
+"Accession_Voip_Phone" = "Accession Voip Phone";
+// SERVICE list item
+// headerTitle SERVICE list
+"MY_SECURITY_SERVICE" = "MY SECURITY SERVICE";
+//listArray
+"Alarm.com" = "Alarm.com";
+"Panic_Button" = "Panic Button";
+"Upgrade_Security_Service" = "Upgrade Security Service";
+//MARK: register first view
+"Register_Title" = "Register Your HotWire Account";
+"Username" = "Username";
+"Password" = "Password";
+"RetypePassword" = "Re-type Password";
+"CustomerNumber" = "Customer Number";
+"NotRobot" = "I'm not a Robot";
+"Continue" = "Continue";
+//SignUp signUpselection
+"ChoosSignUp" = "Choose a Sign Up Method";
+"InvitationCode" = "Invitation Code";
+"InstallationCode" = "Installation Code";
+"CoustomerNoInfoText" = "Your Customer Number can be found on your monthly billing statement.";
+"helpLineForCoustomerNo" = "I do not get a monthly billing statement.";
+// inviteCode
+"InviteCodeInfoText" ="Your Invitation Code can be found in the Introduction Letter or Email send to your Property Manager and/or Hotwire Communications. See example letters below.";
+"InviteCodeHelpLine"= "Unable to find your Invitation Code?";
+"Term&Condition" = "By signing up, you agree to  our\nTerms of Use and Privacy Policy";
+// higlightColor
+"TermsOfUse" = "Terms of Use";
+"PrivacyPolicy" = "Privacy Policy";
+// text on activity sheet on signup selection
+"activitySheetbodyCustomerNumber" = "If you do not get a monthly statement,\nplease call us at (555) 555-5555.";
+"CallUsNow" = "Call Us Now";
+"activitySheetboodyInviteCode" = "If you can not find your invitation code,\nplease call us at (555) 555-5555.";
+"Cancel" = "Cancel";
+// CancelButton Active sheet
+"CancelTitle" = "Cancel Sign Up?";
+"CancelActiveSheetBody" = "Are you sure you want to cancel sign up?";
+"ConfirmCancel" = "Yes, Continue";
+//MARK: signUpsecond
+"CustomerNumberTitle" = "What is Your Customer Number?";
+"Where_FoundCoustomerNumber" = "Your Customer Number can be found on your monthly billing statement.";
+// sign up with invite code
+"InviteCodeTitle" = "What is Your Invitation Code?";
+"WhereToFoundInviteCode" = "Your Installation Code can be found in the Introduction Letter or Email sent to you from your Property Manager and/or Hotwire Communications.";
+//MARK: signUp term and condition screen
+"SignUpTermAndCondition" = "By signing up, you agree to our Term of Use and have read our Privacy Policy. You may receive SMS Text Messages from Hotwire Communications and can optout at any time.";
+"GetStarted" = "Get Started";
+"SignUpNow" = "Sign Up Now";
+"AlreadyHaveAccount" = "Already have an account?";
+//MARK: choose sign Up method
+"SignUpMethod" = "Choose a Sign Up Method";
+"NewCustomer" = "New Customer";
+"ExistingCustomer" = "Existing Customer";
+//MARK: enter user name
+"WhatYourName" = "What is Your Name?";
+"FirstName" = "First Name";
+"LastName" = "Last Name";
+"NameInfoDetails" = "Please enter your real legal name as it appears on your drive license.";
+//MARK: enter your mobile number
+"WhatIsYourMobNo" = "What is Your Mobile Phone Number?";
+"MobileNumberInfoText" = "You can change this number and manage notifications from your settings after you finish creating your account.";
+"EnterYourMobileNumber" = "Enter your mobile number";
+"DoNotHaveTextEnablePhone" = "I do not have a text enabled phone";
+"ForgotLoginInfoText" = "We will send a code via to Confirm the account is yours.";
+//MARK: enter your Email address
+"WhatYourEmailId" = "What is Your Email Address?";
+"EnterEmailAddress" = "Enter Email Address";
+"EmailAddressInfoText" = "You can use this email address when you log in or want to reset your password. we will also send you important service and account notification from time to time.";
+//MARK: Enter Password
+"CreatePassword" = "Create a Password";
+"EnterPassword" = "Enter Password";
+"PasswordInfoText" = "You will use your password to log in to your account. Make sure to write it down and safely store it for later use.";
+"PasswordStrength" = "Password Strength";
+"NewPassword"="New Password";
+"EnterNewPassword"="Enter a New Password";
+// validation string
+"MinimumEightCharacters" = "Eight characters minimum";
+"OneUpperCaseLetter" = "One uppercase letter (e.g. ABC)";
+"OneLowerCaseLetter" = "One lowercase letter (e.g. abc)";
+"OneNumber" = "One number (e.g. 1234)";
+"OneSpecialCharacter"= "One special character (e.g. !@#$^&*)";
+//MARK: security Pin
+"SecurityPinInfoText" = "If you call Customer Support, we will ask that you provide this personal identification number (PIN) to help protect you account from unauthorised individuals.";
+"CreateSecurityPin" = "Create a Security PIN";
+"EnterPin" = "Enter 4 digit PIN";
+"CreateYourAccount" = "Create your account";
+"LoggingIn" = "Logging in";
+//MARK: security Question
+"SecurityQuestionInfoText" = "You can use this security question when you want to reset your password.";
+"SelectSecurityQuest" = "Select a Security Question";
+// security question
+"FavoritePlaceToVisit" = "Favorite place to visit?";
+"BestFriendName" = "Best friend's name?";
+"FavoriteActor/Actress" = "Favorite actor/actress?";
+"MascotFavoriteSportsTeam" = "Mascot of favorite sports team?";
+"MotherMaidenName" = "Mother's maiden name?";
+"NameFirstPet" = "Name of first pet?";
+"YourNickname" = "Your nickname?";
+//MARK: security Answer
+"EnterSecurityAnswer" = "Enter at least 8 characters";
+"SecurityAnswerInfoText" = "Try not to use common answers that others will know or can be easily guessed or found on social sites.";
+//MARK: push notification
+"TurnOnPushNotification" = "Turn On Push Notifications";
+"FreeServiceCredit" = "Get $50 in Free Service Credit";
+"TurnOnPushNotificationBtnTitle" = "Turn On Notifications";
+"TurnOnPushNotificationInfoText" = "Stay Informed. Get service upgrade discount and offers.Get access to important account updates and service notifications. Get access to important news and events.";
+// MARK :- page controller text
+"WelcomeHotwire" = "Welcome To Hotwire";
+"BillingPayment" = "Billing and Payment";
+"BillingPaymentInfo" = "View you bill and pay it instantly using your credit card or bank account.";
+"Appointments" = "Appointments";
+"AppointmentsInfo" = "Schedule and manage Appointments. See who your technician is before they arrive. Track them on the map.";
+"TVServices" = "TV Services";
+"TVServicesInfo" = "Access TV EveryWhere. View Your TV package and Channel lineup. Upgrade  Account Package.";
+"TroubleShooting" = "Trouble Shooting";
+"TroubleShootingInfo" = "Easily trouble shoot your service without having to call support. Fix common problems yourself.";
+"PushNotifications" = "Push Notifications";
+"PushNotificationsInfo" = "Get Notified of service interruptions or when their is special event and promotions for your community.";
+//MARK: Mobile number varification
+"Verification" = "Verification";
+"VerifyYourPhoneNumberTitle" = "Verify Your Phone Number";
+"EnterVerificationCode" = "Enter Verification code";
+"EnterVerificationCodeInfo" = "Enter the 6 digit code we sent in a text message to";
+"SendCodeAgainBtnTitle" = "Send Code Again";
+"ChangeMobileNumberBtnTitle" = "Change Mobile Number";
+"CallmeInsteadBtnTitle" = "Call me Instead";
+"SubmitBtnTitle" = "Submit";
+//MARK: Mobile number varification for forgot login
+"ForgotLoginMobileHeaderText" = "Enter the code we send to your phone.";
+"ForgotLoginMobileInfoText" = "The verification code is a 6 digit number. Make sure you don’t enter your mobile number or the phone number that received the text from.";
+// email verification for forgot login
+"ForgotLoginEmailVerification" = "Enter the code we send to your email";
+"ForgotLoginEmailVerificationInfo"="The verification code is a 6 digit number.";
+//MARK: Email Varification
+"VerifyYourEmailAddressTitle" = "Verify Your Email Address";
+"EnterVerificationCodeMailInfo" = "Enter the 6 digit code we sent in an email to jsmith@gmail.com";
+"SendEmailAgain" = "Send Email Again";
+"ChangeEmailAddress" = "Change Email Address";
+"Go" = "Go";
+//MARK: confirm phone number
+"ConfirmPhoneNumber" = "Confirm Phone Number";
+"WeAreCalling" = "We are calling +1 (555) 555-5555";
+"EnterSecurityCode" = "Enter the following security code in\nyour handset";
+//btn title
+"CallMeAgain" = "Call Me Again";
+"ChangeMobileNumber" = "Change Mobile Number";
+"TextMeInstead" = "Text Me Instead";
+// MARK: welcome screen
+"Hi" = "Hi";
+"ThanksForCreatingAccount" = "Thanks for creating your account.";
+"ThanksForCreatingAccountInfo" = "Let’s take a movement to finish setting up your account and verify the phone number and email address you used during sign up.";
+"GetStarted" = "Get Started";
+//MARK: LoginUser
+"WelcomeInfoText" = "Let’s take a moment to verify and setup you account for this new mobile experience.";
+"WelcomeTermAndCondition" = "By setting up your account, you agree to our Terms of Use and Privacy Policy Policy.You may receive SMS Text Messages from Hotwire Communications and can opt-out at any time.";
+//MARK: Account setup verification
+"VerifyMobileNumber" = "Verify Your Mobile Number";
+"VerifyMobileNumberInfoText" = "Well we send a Text Message with verification code to this phone number. You can use this number to help protect your account and recover you password if you ever forget it.";
+"SendCode" = "Send code";
+//MARK: Account setup email varification
+"VerifyEmailAddress" = "Verify your Email Address";
+"VerifyEmailAddressInfo" = "You can use this email address when you log in or want to reset your password. We will also send you important service and account notifications from time to time.";
+//MARK: AccountRecovery
+"AccountRecoveryPageHeader" = "Get help signing into your account.";
+"RecoveryOption" = "CHOOSE A RECOVERY OPTION";
+"ResetPassword" = "Reset Password";
+"RecoverUsername" = "Recover Username";
+"AccountRecoveryInfo" = "For your protection, we log all activity related to account recovery including IP Address. We also send notifications to you based on this activity.";
+//MARK: Reset Password
+"ResetPasswordHeader" = "CHOOSE A RESET OPTION";
+//MARK: Recover Username
+"RecoverUsernameHeader" = "CHOOSE A RECOVERY OPTION";
+"MobilePhone" = "Mobile Phone";
+"Email" = "Email";
+"CustomerNumber" = "Customer Number";
+//MARK: Account View controller
+"Account" = "Account";
+//MARK: Uialertcontroler Title and text
+"CodeSendTitle" = "Code Send";
+"CodeSendOnMobileBody" = "We send a code via text message to\n(555) 555-5555. \n\nSometimes it can take a few minutes to arrive. Please be patient.";
+"CodeConfirmedTitle" = "Code Confirmed";
+"CodeConfirmedMobileNumberBody"="Your phone number has been verified.";
+"CodeConfirmedEmailBody" = "Your emailed address is now confirmed and  verified.";
+"CodeResentTitle" = "Code Re-sent";
+"CodeResentBody" = "It may take up to 5 minutes before the text message arrives.";
+"EmailSentTitle" = "Email Sent";
+"EmailSentBody" = "Hi John. We sent an email to jsmith@gmail.com.\n\nPlease open the email and follow the instructions to verify your email address. This helps to make your account more secure.\n \nMake sure to check your spam folder if you do not see the email in your inbox. Also add us to your safe sender list.";
+"InvitationCodeInvalidTitle" = "Invitation Code Invalid";
+"InvitationCodeInvalidBody" = "The invitation Code you entered is not valid. Please check your code and try again.";
+"CustomerNumberInvalidTitle" = "Customer Number Invalid";
+"CustomerNumberInvalidBody" = "There customer number you entered was nt found in the system. please check your entered was not found in the system. Please check your number and try again.";
+"CodeInvalidTitle" = "Code Invalid";
+"CodeInvalidBody" = "The code you entered is invalid. Please check the numberer sends new code to you number.";
+"CodeExpiredTitle" = "Code Expired";
+"CodeExpiredBody" = "The code you entered is expired Please send a new code to  the number and try again.";
+"EmailAlreadyInUseTitle" = "Email Already in Use";
+"EmailAlreadyInUseBody" = "jsmith@gmail.com is already registered in our system. Please enter another email address or login in";
+// forgot login
+"EmailSentTitle" ="Email Sent";
+"EmailSentBody" ="We sent a verification code to";
+// recover user name
+"RecoverUserNamePhoneNoTitle" = "Text Message Sent";
+"RecoverUserNamePhoneNoBody" = "If (555) 555-5555 is a valid number, you will receive a text  message shortly with your Username";
+// recover user name email id
+"RecoverUserNameEmailNoTitle"="Email Sent";
+"RecoverUserNameEmailNoBody"="If jsmith@gmail.com is valid , you will receive an email shortly with the Username.";
+// rechability error
+"NoInternet" = "No working internet Connection is found";
+"DeviceNotConnected" = "Turn off airplane mode.\nTurn on mobile data or Wi-fi.\nCheck signal in your area";
+"Alert" = "Alert";
+"Ok" = "OK";
+

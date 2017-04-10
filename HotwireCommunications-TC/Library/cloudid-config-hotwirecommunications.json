@@ -1,0 +1,7 @@
+
+{
+  "client": "synstart1",
+  "identity-provider": "hotwirecommunications.auth-gateway.net",
+  "keychain-service": "CloudId"
+}
+

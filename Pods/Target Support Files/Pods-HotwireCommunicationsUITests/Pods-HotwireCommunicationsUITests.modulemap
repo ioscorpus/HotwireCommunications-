@@ -1,0 +1,6 @@
+framework module Pods_HotwireCommunicationsUITests {
+  umbrella header "Pods-HotwireCommunicationsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
